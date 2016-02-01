@@ -1,0 +1,4 @@
+Hello ,
+You or someone else asked for a lost password on [SITE_URL],
+
+<a href="[SITE_URL]login.php?[pass]">Click Here To Reset Your Password</a>

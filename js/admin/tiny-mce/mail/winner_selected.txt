@@ -1,0 +1,6 @@
+Hello [USER_NAME]
+ Winner Has been choosed for the following Auction, follow the link: <a href="
+[AUCTION_URL]
+">
+AUCTION URL</a>
+

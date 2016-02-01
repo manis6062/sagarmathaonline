@@ -1,0 +1,3 @@
+Hello [USER_NAME]
+ You Have Received A new Private Message, Please Check You Message 
+ <a href="[SITE_URL]">Message</a>

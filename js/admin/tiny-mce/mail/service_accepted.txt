@@ -1,0 +1,6 @@
+Hello [USER_NAME] 
+Congratulations,
+Your Bid Has been Accepted On the following Auction :
+ <a href="[AUCTION_URL]">SERVICE URL</a>
+
+[PAYMENT_DETAILS]

@@ -1,0 +1,4 @@
+Hello [USER_NAME]
+ You have subscribed to a Auction,
+This auction has been updated,to see the changes please follow this link: 
+<a href="[AUCTION_URL]">AUCTION URL</a>

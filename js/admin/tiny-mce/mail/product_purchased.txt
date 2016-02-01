@@ -1,0 +1,5 @@
+Hello [USER_NAME]
+
+[BUYER_NAME] wants to purchase your product [PRODUCT_NAME] Please <a href="[SITE_URL]">login</a> to view details
+
+Thank you

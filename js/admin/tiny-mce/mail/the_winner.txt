@@ -1,0 +1,6 @@
+Hello [USER_NAME] 
+Congratulations,
+ You Won The following Auction:
+ <a href="[AUCTION_URL]">AUCTION URL</a>
+
+[PAYMENT_DETAILS]

@@ -1,0 +1,6 @@
+Hello [USER_NAME] 
+Congratulations,
+Your Offer Has been Accepted On the following Service :
+ <a href="[SERVICE_URL]">SERVICE URL</a>
+
+[PAYMENT_DETAILS]
